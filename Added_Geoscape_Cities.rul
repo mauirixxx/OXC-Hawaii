@@ -1,0 +1,25 @@
+# Ruleset to add new cities to the geoscape map
+
+regions:
+  - type: STR_PACIFIC
+    cities:
+      - name: STR_HONOLULU
+        lon: 207.074
+        lat: -21.3902
+      - name: STR_LIHUE
+        lon: 205.479
+        lat: -22.0707
+      - name: STR_HILO
+        lon: 209.757
+        lat: -19.6007
+extraStrings:
+  - type: en-US
+    strings:
+      STR_HONOLULU: Honolulu
+      STR_LIHUE: Lihue
+      STR_HILO: Hilo
+  - type: en-GB
+    strings:
+      STR_HONOLULU: Honolulu
+      STR_LIHUE: Lihue
+      STR_HILO: Hilo
