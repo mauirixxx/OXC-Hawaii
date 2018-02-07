@@ -16,4 +16,11 @@ extraStrings:
       # New cities in Hawaii
       STR_LIHUE: Lihue
       STR_HONOLULU: Honolulu
+      STR_KIHEI: Kihei
+      STR_HILO: Hilo
+  - type: en-GB
+    strings:
+      STR_LIHUE: Lihue
+      STR_HONOLULU: Honolulu
+      STR_KIHEI: Kihei
       STR_HILO: Hilo
