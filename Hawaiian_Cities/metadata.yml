@@ -1,0 +1,9 @@
+#
+# metadata.yaml for Hawaiian Cities
+
+name: "Hawaiian Cities"
+version: 1.0
+description: "Adds multiple Hawaiian cities to the Geoscape"
+author: mauirixxx
+
+master: xcom1

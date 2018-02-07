@@ -1,0 +1,19 @@
+# Ruleset to add cities to the Hawaiian islands
+# this will allow for terror missions in Hawaii
+
+regions:
+  - type: STR_PACIFIC
+    cost: 1200000
+    missionZones:
+      -
+        - [205.482, 205.482, -22.153, -22.153, -22, STR_LIHUE]
+        - [207.081, 207.081, -21.343, -21.343, -22, STR_HONOLULU]
+        - [208.726, 208.726, -20.741, -20.741, -22, STR_KIHEI]
+        - [209.813, 209.813, -19.625, -19.625, -22, STR_HILO]
+extraStrings:
+  - type: en-US
+    strings:
+      # New cities in Hawaii
+      STR_LIHUE: Lihue
+      STR_HONOLULU: Honolulu
+      STR_HILO: Hilo
